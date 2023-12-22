@@ -1,4 +1,7 @@
 # Manifest: Kowalski
+- [English](#english)
+- [Português](#português)
+
 
 ## English
 
@@ -27,7 +30,7 @@ It involves mimicking the appearance of the company's app while adding new featu
 **The app was developed natively for Android, using the Kotlin language, organized following the MVVM architecture model.**
 
 
-## Portuguese
+## Português
 **Projeto desenvolvido durante a graduação para uma empresa parceira.** <br>
 Consiste em mimetizar a aparência do aplicativo da empresa, adicionando novas funcionalidades que melhorem a experiência do usuário. <br>
 
