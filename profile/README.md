@@ -1,6 +1,7 @@
 # Manifest: Kowalski
 - [English](#english)
 - [Português](#português)
+- [Español](#español)
 
 
 ## English
@@ -54,3 +55,30 @@ Consiste em mimetizar a aparência do aplicativo da empresa, adicionando novas f
   > A aplicação ilustra seu funcionamento, sendo responsabilidade da empresa cliente a negociação da licença para se utilizar o protocolo.  <br>
 
 **O aplicativo foi desenvolvido nativamente para Android, utilizando a linguagem Kotlin, organizado seguindo o modelo de arquiterura MVVM.**
+
+
+## Español
+
+**Proyecto desarrollado durante los estudios de pregrado para una empresa asociada.** <br>
+Implica imitar la apariencia de la aplicación de la empresa mientras se agregan nuevas características para mejorar la experiencia del usuario. <br>
+
+**Las nuevas características son:**  <br>
+
+1) **Sistema de Calificación:** <br>
+  - La aplicación original contiene un mapa con las posiciones de sus establecimientos e información adicional. <br>
+  - Agregamos la opción de calificar los servicios proporcionados y una lista donde los usuarios pueden ver los establecimientos clasificados por calificaciones. <br>
+
+2) **Pago Simplificado:** <br>
+  - Algunos establecimientos tienen un código numérico que permite el pago a través de la aplicación. <br>
+  - Agregamos un lector de caracteres para que los usuarios no tengan que ingresar el código manualmente, y un lector de códigos QR, permitiendo actualizaciones tecnológicas. <br>
+
+3) ***Lector de Sensor OBD:** <br>
+  - Para fomentar el uso de la aplicación, desarrollamos un sistema que lee datos de un sensor compatible con el protocolo OBD a través de Bluetooth o Web Sockets. <br>
+  - Este protocolo permite leer datos del sensor del vehículo. <br>
+  - Este módulo del proyecto permite a los usuarios tener un mejor control sobre sus vehículos, ayudando en decisiones relacionadas con el mantenimiento. <br>
+  - El sistema también te mantendrá informado en casos potencialmente críticos, ayudando a mantener la salud del vehículo. <br>
+
+  > *Nota: El protocolo OBD es propietario, lo que hace imposible la implementación completa. <br>
+  > La aplicación ilustra su funcionalidad, siendo la empresa cliente la responsable de negociar la licencia para usar el protocolo. <br>
+
+**La aplicación fue desarrollada de forma nativa para Android, utilizando el lenguaje Kotlin, organizada siguiendo el modelo de arquitectura MVVM.**
